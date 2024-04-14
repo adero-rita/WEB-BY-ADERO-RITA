@@ -1,0 +1,30 @@
+/* @media (max-width: 991px) {
+	.navbar-collapse {
+		display: flex !important;
+		flex-wrap: wrap;
+		justify-content: flex-end;
+	}
+
+	.navbar-collapse .form-inline {
+		flex: 1 1 auto;
+		margin-bottom: 10px;
+	}
+	.navbar-collapse .navbar-brand {
+		margin-right: auto;
+	}
+} */
+
+#buttoncart {
+	border-radius: 150px;
+	margin-top: 20px;
+	margin-right: 50px;
+	padding-right: 10px;
+}
+#mainnavbar {
+	background-color: #f2d9db;
+}
+#submitbuttononform {
+	background-color: #dba859;
+	color: white;
+	font-weight: 700;
+}

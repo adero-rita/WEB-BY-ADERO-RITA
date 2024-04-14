@@ -1,0 +1,14 @@
+#promobarmain {
+	background-color: #cfd285;
+	padding: 0px;
+
+	/* position: fixed; */
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 9999;
+}
+#promotext {
+	color: rgb(247, 244, 244);
+	font-size: 16px;
+}

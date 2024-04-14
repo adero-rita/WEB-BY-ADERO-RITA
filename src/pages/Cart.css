@@ -1,0 +1,79 @@
+#totalcart {
+	padding-bottom: 20px;
+}
+.youritemscart {
+	text-align: left;
+	font-family: Imported;
+	font-size: 35px;
+}
+.line-1 {
+	height: 1px;
+	background-color: black;
+	margin-bottom: 20px;
+}
+.cartmain {
+	max-width: 700px;
+	padding: 5px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.cartimage {
+	width: 120px;
+}
+.bookcarttitle {
+	font-size: 20px;
+}
+.bookauthorcart {
+	font-size: 14px;
+}
+.pricecart {
+	color: red;
+	font-weight: 500;
+}
+.cartimageplace {
+	max-width: 200px;
+	padding: 0 20px 0 20px;
+}
+.cartbody {
+	padding: 5px;
+	text-align: left;
+}
+.quantitycontainer {
+	display: flex;
+	flex-direction: row;
+	max-height: 40px;
+}
+.quantitynumber {
+	width: 30px;
+	height: 40px;
+	font-weight: 500;
+	text-align: center;
+}
+.buttonsaddandremove {
+	border: none;
+}
+.summarytext {
+	font-family: Imported;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	padding: 0;
+	font-size: 50px;
+}
+.removebutton {
+	border-radius: 44px;
+	background-color: red;
+	color: white;
+	padding: 2px 10px 2px 10px;
+	border: none;
+	font-weight: 600;
+	width: 30px;
+	height: 30px;
+}
+.removebuttondiv {
+	width: 50px;
+	height: 50px;
+	display: flex;
+	justify-content: flex-end; /* Align items to the right */
+	margin-left: auto; /* Push the div to the right */
+}
